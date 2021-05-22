@@ -1,0 +1,9 @@
+@use 'variables';
+
+.cd-navigation {
+    color: variables.$color-6;
+}
+
+li > a {
+    color: variables.$color-6;
+}
